@@ -28,3 +28,8 @@ body{
         padding: 0 4% !important;
     }
 }
+
+.active{
+    background-color:#fff !important;
+    color:#000 !important;
+}
